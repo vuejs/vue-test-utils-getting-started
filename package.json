@@ -5,12 +5,12 @@
     "vue": "^2.4.4"
   },
   "devDependencies": {
+    "@vue/test-utils": "^1.0.0-beta.13",
     "babel-jest": "^21.2.0",
     "babel-preset-env": "^1.6.0",
     "jest": "^21.2.1",
     "regenerator-runtime": "^0.11.0",
-    "vue-template-compiler": "^2.4.4",
-    "vue-test-utils": "1.0.0-beta"
+    "vue-template-compiler": "^2.4.4"
   },
   "scripts": {
     "test": "jest"
